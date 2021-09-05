@@ -1,28 +1,25 @@
 ## Florence Sun
 
-Email: zsun373@uwo.ca
+Email: zsun373@uwo.ca<br/>
 London, ON Canada
 
 ### Summary
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Programming Skills: 
+Python (Scikit-learn, Pandas, NumPy, SciPy, Seaborn, Matplotlib, Plotly, Bokeh, Requests, Beautiful Soup, Flask, Spark, TensorFlow), SQL, R, MS Office Suite
 
-- Bulleted
-- List
+### Others:
+Git, Github, Jupyter Notebook
 
-1. Numbered
-2. List
+### Specialization Skills:
+data extraction (web scraping, third party APIs), data cleaning, statistical analysis, feature engineering, machine learning, data visualization, relational database structure 
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
 ```
 
 
