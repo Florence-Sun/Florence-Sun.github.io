@@ -8,17 +8,18 @@ London, ON Canada
 
 
 ```markdown
-Syntax highlighted code block
 
-### Programming Skills: 
-Python (Scikit-learn, Pandas, NumPy, SciPy, Seaborn, Matplotlib, Plotly, Bokeh, Requests, Beautiful Soup, Flask, Spark, TensorFlow), SQL, R, MS Office Suite
 
-### Others:
+**Programming Skills:** 
+Python (Scikit-learn, Pandas, NumPy, SciPy, Seaborn, Matplotlib, Plotly,<br/> 
+Bokeh, Requests, Beautiful Soup, Flask, Spark, TensorFlow), SQL, R, MS Office Suite
+
+**Others:**
 Git, Github, Jupyter Notebook
 
-### Specialization Skills:
-data extraction (web scraping, third party APIs), data cleaning, statistical analysis, feature engineering, machine learning, data visualization, relational database structure 
-
+**Specialization Skills:**
+data extraction (web scraping, third party APIs), data cleaning, statistical analysis, <br/>
+feature engineering, machine learning, data visualization, relational database structure 
 
 ```
 
@@ -26,7 +27,7 @@ data extraction (web scraping, third party APIs), data cleaning, statistical ana
 
 ### EDUCATION
 
-**M.S., Data Analytics, Western University, London, ON**   		August 2022
+<pre>**M.S., Data Analytics, Western University, London, ON**   		      August 2022</pre>
 
 ### PROJECT
 
