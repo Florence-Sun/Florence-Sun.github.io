@@ -6,7 +6,7 @@ London, ON Canada
 ### Summary
 
 
-
+```
 
 **Programming Skills:** 
 Python (Scikit-learn, Pandas, NumPy, SciPy, Seaborn, Matplotlib, Plotly,<br/> 
@@ -19,13 +19,13 @@ Git, Github, Jupyter Notebook
 data extraction (web scraping, third party APIs), data cleaning, statistical analysis, <br/>
 feature engineering, machine learning, data visualization, relational database structure 
 
-
+```
 
 
 
 ### EDUCATION
 
-<pre>**M.S., Data Analytics, Western University, London, ON**   		      August 2022</pre>
+**M.S., Data Analytics, Western University, London, ON**   		      August 2022
 
 ### PROJECT
 
