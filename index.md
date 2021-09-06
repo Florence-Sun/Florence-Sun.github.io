@@ -3,8 +3,7 @@
 Email: zsun373@uwo.ca<br/>
 London, ON Canada
 
-### **Summary**
-
+### TECHNICAL SKILLS
 
 **Programming Skills:** 
 Python (Scikit-learn, Pandas, NumPy, SciPy, Seaborn, Matplotlib, Plotly,<br/> 
@@ -19,12 +18,13 @@ feature engineering, machine learning, data visualization, relational database s
 
 
 
-
 ### EDUCATION
 
-**M.S., Data Analytics, Western University, London, ON**   		      August 2022
+**M.S., Data Analytics, Western University, London, ON**   		      August 2022<br/>
+**Data Science Certification, The Data Incubator, New York, NY, USA** March 2020<br/>
+**Ph.D., Mechanical Engineering, University of Pittsburgh, Pittsburgh, PA USA** August 2019                        
 
-### PROJECT
+### PROJECTS
 
 #### New York City (NYC) motor vehicle collision forecast 
 - Collected, cleaned and structured real-world 450,000 historical collision records from NYC OpenData website.
@@ -39,7 +39,22 @@ Available to the public at website: https://nyc-collision-forecast.herokuapp.com
 - Recommended similar movies to a user by calculating “average” features from the user’s historical movie preference and matching movies with feature similarity.
 - Code link at github: https://github.com/Florence-Sun/Movie-recommendation-system
 
+### EXPERIENCE
 
+#### Data Science Fellow    01/2020-03/2020
+The Data Incubator, New York, NY USA<br/>
+-	Wrote complex SQL queries to extract information from a database of 532,000 records of restaurant inspections in New York City, revealing common types of restaurant violations.   
+-	Analyzed the social network of celebrities by web scraping more than 100,000 photo captions from the archived websites of New York Social Diary; Used Python packages to accurately parse names from photo captions; Built a graph model and determined the most influential celebrity.
+-	Parsed, cleaned and processed a 10 GB set of XML files of user actions on a Q&A website; Trained a word2vec model and a classification model on tags associated with question posts; Implemented a machine learning pipeline using Spark ML. 
 
+#### Doctoral Resercher  09/2014-08/2019
+Department of Mechanical Engineering and Materials Science, University of Pittsburgh, Pittsburgh, PA, USA
+-	Designed a new electromechanical actuated refrigerator to satisfy special cooling requirements in electronics and mechanics industry. 
+-	Proposed a novel mathematical model to analyze and optimize device performance; Analyzed different groups of materials data and discovered the most important properties impacting the performance of the device.
+-	Wrote manuscripts for journal publication and presented work at conferences successfully.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### Teaching Assistant and Proctor  09/2015-04/2019
+Department of Mechanical Engineering and Materials Science, University of Pittsburgh, Pittsburgh, PA, USA
+- Taught fundamental and advanced lab classes to undergraduates including technical concepts and methodology, and guided their final projects. 
+-	Graded students’ homework, reports and exam papers; Maintained lab equipment.
+-	Administered exams for undergraduate classes and monitored students during exams.
