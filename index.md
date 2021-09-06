@@ -3,8 +3,7 @@
 Email: zsun373@uwo.ca<br/>
 London, ON Canada
 
->### Summary
-
+### **Summary**
 
 
 **Programming Skills:** 
