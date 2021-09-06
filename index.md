@@ -20,9 +20,9 @@ feature engineering, machine learning, data visualization, relational database s
 
 ### EDUCATION
 
-**M.S., Data Analytics, Western University, London, ON**   		      August 2022<br/>
-**Data Science Certification, The Data Incubator, New York, NY, USA** March 2020<br/>
-**Ph.D., Mechanical Engineering, University of Pittsburgh, Pittsburgh, PA USA** August 2019                        
+**M.S., Data Analytics, Western University, London, ON**&emsp; August 2022<br/>
+**Data Science Certification, The Data Incubator, New York, NY, USA**&emsp; March 2020<br/>
+**Ph.D., Mechanical Engineering, University of Pittsburgh, Pittsburgh, PA USA**&emsp; August 2019                        
 
 ### PROJECTS
 
