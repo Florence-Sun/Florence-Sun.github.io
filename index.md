@@ -24,6 +24,7 @@ feature engineering, machine learning, data visualization, relational database s
 **Data Science Certification, The Data Incubator, New York, NY, USA**&emsp; March 2020<br/>
 **Ph.D., Mechanical Engineering, University of Pittsburgh, Pittsburgh, PA USA**&emsp; August 2019                        
 
+
 ### PROJECTS
 
 #### New York City (NYC) motor vehicle collision forecast 
