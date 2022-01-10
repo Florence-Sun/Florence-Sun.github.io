@@ -47,9 +47,9 @@ feature engineering, machine learning, data visualization, relational database s
 - Available to the public at website: https://nyc-collision-forecast.herokuapp.com/ 
 
 #### Movie recommendation system design
-- Developed a movie recommendation system by analyzing textual dataset of 58,000 movies rated by 280,000 users.
-- Used feature engineering to overcome the dimensional curse and wrote object-oriented classes to wrap functions together. 
-- Recommended similar movies to a user by calculating “average” features from the user’s historical movie preference and matching movies with feature similarity.
+-	Analyzed a textual dataset of 58,000 movies reviewed by 280,000 individuals to create a movie recommendation engine.
+-	Overcame the dimensional curse by using feature engineering. 
+-	Served a user with similar movies by computing "average" features based on the user's previous movie preferences and pairing movies with feature similarity.
 - Code link at github: https://github.com/Florence-Sun/Movie-recommendation-system
 
 ### EXPERIENCE
