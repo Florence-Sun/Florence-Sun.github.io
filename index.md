@@ -27,12 +27,24 @@ feature engineering, machine learning, data visualization, relational database s
 
 ### PROJECTS
 
+#### Credit Risk Analysis and Modeling
+- Cleaned 50,000 real-world credit card application records by using various methods to fill missing values and exclude outliers.
+- Used grid search and cross validation to find the best parameters for logistic regression, random forest and XGBoost. Then compared three models’ performance by using ROC curve and confusion matrix.
+- Calculated the defaulter accuracy and total loss for each cut off point between 0.4 and 0.9 with a step of 0.05 and then developed a two-point cut-off strategy to assist the bank in minimizing total loss. 
+- Code link at github: https://github.com/Florence-Sun/Credit-risk-analysis-and-modeling
+
+#### Analysis of LiDAR Images with the Health Deprivation Index
+- Examined the relationship between LiDAR images and the health deprivation index using transfer learning approaches based on VGG16 and ResNet50V2, respectively.
+- Enhanced the performance metric by adopting a multimodal learning strategy that combined unstructured LiDAR data with structured area code data.
+- Highlighted the regions of photos where the model picked up as important features using Grad-CAM.
+- Code link at github: https://github.com/Florence-Sun/Analysis-of-LiDAR-Images-with-the-Health-Deprivation-Index
+
 #### New York City (NYC) motor vehicle collision forecast 
 - Collected, cleaned and structured real-world 450,000 historical collision records from NYC OpenData website.
 - Developed models to extract insights from time-series data, like trend, seasonality.
 - Derived insights by Wordcloud text analysis about the main collision reasons including “inattention distraction”, “following closely” and “failure to yield”. 
 - Deployed a real-time web app using Flask on Heroku cloud application platform to automatically request real-time collision data and then feed data into the pre-trained models to predict collision numbers in the five boroughs of NYC one week later. 
-Available to the public at website: https://nyc-collision-forecast.herokuapp.com/ 
+- Available to the public at website: https://nyc-collision-forecast.herokuapp.com/ 
 
 #### Movie recommendation system design
 - Developed a movie recommendation system by analyzing textual dataset of 58,000 movies rated by 280,000 users.
@@ -44,9 +56,9 @@ Available to the public at website: https://nyc-collision-forecast.herokuapp.com
 
 #### Data Science Fellow    01/2020-03/2020
 The Data Incubator, New York, NY USA<br/>
--	Wrote complex SQL queries to extract information from a database of 532,000 records of restaurant inspections in New York City, revealing common types of restaurant violations.   
--	Analyzed the social network of celebrities by web scraping more than 100,000 photo captions from the archived websites of New York Social Diary; Used Python packages to accurately parse names from photo captions; Built a graph model and determined the most influential celebrity.
--	Parsed, cleaned and processed a 10 GB set of XML files of user actions on a Q&A website; Trained a word2vec model and a classification model on tags associated with question posts; Implemented a machine learning pipeline using Spark ML. 
+- Developed SQL queries to extract data from a database of 532,000 records of New York City restaurant inspections, revealing major types of restaurant violations.
+- Web scraped more than 100,000 photo captions from the archived websites of New York Social Diary to analyze the social network of celebrities; Overcame the challenge of certain celebrities having several names and titles by accurately parsing their names using regular expression. 
+- Parsed, cleaned and processed a 10 GB set of XML files of user actions on a Q&A website; Trained a word2vec model and a classification model on tags associated with question posts; Implemented a machine learning pipeline using Spark ML. 
 
 #### Doctoral Resercher  09/2014-08/2019
 Department of Mechanical Engineering and Materials Science, University of Pittsburgh, Pittsburgh, PA, USA
