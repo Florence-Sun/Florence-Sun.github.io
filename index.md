@@ -1,6 +1,6 @@
 ## Florence Sun
 
-Toronto, ON Canada
+
 
 ### TECHNICAL SKILLS
 
